@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1,
+    "name": "Adobo",
+    "description": "Classic Filipino adobo tangy, savory braised pork or chicken.",
+    "image": "/images/adobo.jpg",
+    "ingredients": [
+      "1 kg pork shoulder (or chicken)",
+      "1/2 cup soy sauce",
+      "1/2 cup vinegar",
+      "6 cloves garlic, crushed",
+      "2 bay leaves",
+      "1 tsp whole peppercorns",
+      "1 tbsp oil",
+      "1 cup water"
+    ],
+    "instructions": [
+      "Marinate meat with soy sauce and half the garlic for 30 minutes.",
+      "Heat oil in a pot and sauté remaining garlic until fragrant.",
+      "Add meat and brown lightly.",
+      "Pour in marinade, vinegar, bay leaves, peppercorns and water.",
+      "Simmer until tender and sauce reduces (30-45 minutes).",
+      "Adjust seasoning; serve with rice."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sinigang na Baboy",
+    "description": "A sour tamarind soup with pork and vegetables.",
+    "image": "/images/sinigang.jpg",
+    "ingredients": [
+      "1 kg pork ribs",
+      "10 cups water",
+      "2 medium tomatoes, quartered",
+      "1 onion, sliced",
+      "2 tbsp fish sauce",
+      "1 pack tamarind soup mix (or fresh tamarind)",
+      "1 eggplant, sliced",
+      "1 bunch kangkong (water spinach)",
+      "2 long green chilies"
+    ],
+    "instructions": [
+      "Boil pork ribs in water with onion and tomatoes until tender.",
+      "Add fish sauce and tamarind mix.",
+      "Add eggplant, chilies, and simmer for 5 minutes.",
+      "Add kangkong leaves last and cook for 2 minutes.",
+      "Serve hot with rice."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kare-Kare",
+    "description": "Peanut stew with oxtail, vegetables, and shrimp paste.",
+    "image": "/images/karekare.jpg",
+    "ingredients": [
+      "1 kg oxtail, cut into pieces",
+      "1 banana heart, sliced",
+      "1 bundle string beans, cut",
+      "1 eggplant, sliced",
+      "1/2 cup ground peanuts",
+      "1/4 cup peanut butter",
+      "1 tbsp annatto seeds (achuete)",
+      "2 tbsp oil",
+      "2 cloves garlic",
+      "1 onion, chopped"
+    ],
+    "instructions": [
+      "Boil oxtail until tender.",
+      "Sauté garlic and onion in oil.",
+      "Add annatto seeds in oil for color, then discard seeds.",
+      "Add boiled oxtail, peanut butter, and ground peanuts.",
+      "Add vegetables and simmer until cooked.",
+      "Serve with bagoong (shrimp paste)."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lechon",
+    "description": "Crispy roasted whole pig, a Filipino fiesta specialty.",
+    "image": "/images/lechon.jpg",
+    "ingredients": [
+      "1 whole pig (small, 15-20 kg)",
+      "1 bunch lemongrass",
+      "1 cup soy sauce",
+      "1 cup calamansi juice",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Clean and season pig with salt, pepper, soy sauce, and calamansi.",
+      "Stuff cavity with lemongrass.",
+      "Roast over charcoal, turning constantly, until skin is golden and crispy.",
+      "Chop and serve with liver sauce."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pancit Canton",
+    "description": "Stir-fried egg noodles with meat, shrimp, and vegetables.",
+    "image": "/images/pancit.jpg",
+    "ingredients": [
+      "500 g pancit canton noodles",
+      "200 g pork belly, sliced",
+      "200 g shrimp, peeled",
+      "2 cups cabbage, sliced",
+      "2 carrots, julienned",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "3 tbsp soy sauce",
+      "2 tbsp oyster sauce"
+    ],
+    "instructions": [
+      "Sauté garlic and onion, add pork and cook until browned.",
+      "Add shrimp and vegetables, stir-fry for 2 minutes.",
+      "Add soy sauce, oyster sauce, and 1 cup water.",
+      "Toss in noodles until cooked and well coated.",
+      "Serve hot with calamansi."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Halo-Halo",
+    "description": "A popular Filipino shaved ice dessert with mixed sweets.",
+    "image": "/images/halo-halo.jpg",
+    "ingredients": [
+      "Shaved ice",
+      "1/2 cup sweetened bananas",
+      "1/2 cup sweetened jackfruit",
+      "1/2 cup sweetened beans",
+      "1/4 cup nata de coco",
+      "1/4 cup leche flan",
+      "1 scoop ube ice cream",
+      "Evaporated milk"
+    ],
+    "instructions": [
+      "Layer sweetened fruits and beans in a tall glass.",
+      "Add shaved ice on top.",
+      "Pour evaporated milk over the ice.",
+      "Top with leche flan and ube ice cream.",
+      "Mix before eating."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Laing",
+    "description": "Taro leaves cooked in coconut milk and chili peppers.",
+    "image": "/images/laing.jpg",
+    "ingredients": [
+      "4 cups dried taro leaves",
+      "2 cups coconut milk",
+      "1 cup coconut cream",
+      "1 onion, chopped",
+      "4 cloves garlic",
+      "2 tbsp dried shrimp or fish flakes",
+      "3 chilies, sliced"
+    ],
+    "instructions": [
+      "In a pot, combine coconut milk, onion, garlic, and shrimp flakes.",
+      "Simmer and add taro leaves (do not stir until leaves soften).",
+      "Add chilies and cook until coconut oil comes out.",
+      "Top with coconut cream and simmer a few minutes.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bicol Express",
+    "description": "Pork cooked in coconut milk with chili peppers.",
+    "image": "/images/bicol-express.jpg",
+    "ingredients": [
+      "500 g pork belly, sliced",
+      "2 cups coconut milk",
+      "1 cup coconut cream",
+      "6 long green chilies",
+      "3 bird’s eye chilies (optional)",
+      "1 onion, chopped",
+      "3 cloves garlic",
+      "2 tbsp shrimp paste"
+    ],
+    "instructions": [
+      "Sauté garlic and onion, add pork and cook until browned.",
+      "Add shrimp paste and stir well.",
+      "Pour in coconut milk and simmer until pork is tender.",
+      "Add chilies and coconut cream, cook until thickened.",
+      "Serve hot with rice."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Sisig",
+    "description": "Crispy pork face and ears, chopped and served on a sizzling plate.",
+    "image": "/images/sisig.jpg",
+    "ingredients": [
+      "500 g pork face and ears",
+      "2 onions, chopped",
+      "3 cloves garlic",
+      "2 tbsp soy sauce",
+      "1 tbsp calamansi juice",
+      "1 egg",
+      "Chili peppers to taste"
+    ],
+    "instructions": [
+      "Boil pork face until tender, then grill until crispy.",
+      "Chop finely and sauté with onions and garlic.",
+      "Season with soy sauce and calamansi.",
+      "Serve on sizzling plate with raw egg cracked on top."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Lumpiang Shanghai",
+    "description": "Deep-fried spring rolls with pork filling.",
+    "image": "/images/lumpia.jpg",
+    "ingredients": [
+      "500 g ground pork",
+      "1 carrot, grated",
+      "1 onion, minced",
+      "3 cloves garlic",
+      "1 egg",
+      "Spring roll wrappers",
+      "Salt and pepper to taste",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix pork, carrot, onion, garlic, egg, salt, and pepper.",
+      "Wrap 1 tbsp of filling in spring roll wrapper.",
+      "Fry in hot oil until golden brown.",
+      "Serve with sweet chili sauce."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Bulalo",
+    "description": "Beef shank soup with bone marrow and vegetables.",
+    "image": "/images/bulalo.jpg",
+    "ingredients": [
+      "1 kg beef shank with bone marrow",
+      "1 onion, quartered",
+      "1 corn on the cob, sliced",
+      "1 bundle pechay (bok choy)",
+      "2 potatoes, quartered",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Boil beef shank in water with onion until tender.",
+      "Add corn and potatoes, simmer until cooked.",
+      "Season with salt and pepper.",
+      "Add pechay leaves before serving."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Inasal",
+    "description": "Bacolod-style grilled chicken marinated in calamansi, vinegar, and annatto oil.",
+    "image": "/images/inasal.jpg",
+    "ingredients": [
+      "1 whole chicken, cut into pieces",
+      "1/2 cup calamansi juice",
+      "1/4 cup vinegar",
+      "1/4 cup soy sauce",
+      "1 tbsp annatto oil",
+      "6 cloves garlic",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Marinate chicken with calamansi, vinegar, soy sauce, garlic, salt, and pepper.",
+      "Grill over charcoal while basting with annatto oil.",
+      "Serve with rice and dipping sauce."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Tokwa't Baboy",
+    "description": "Boiled pork and fried tofu with soy-vinegar sauce.",
+    "image": "/images/tokwa.jpg",
+    "ingredients": [
+      "500 g pork belly, boiled and sliced",
+      "2 blocks tofu, fried and cubed",
+      "1/4 cup soy sauce",
+      "1/4 cup vinegar",
+      "1 onion, sliced",
+      "2 cloves garlic",
+      "Chili (optional)"
+    ],
+    "instructions": [
+      "Mix soy sauce, vinegar, onion, garlic, and chili for sauce.",
+      "Combine boiled pork and fried tofu.",
+      "Pour sauce and toss well before serving."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Pinakbet",
+    "description": "Ilocano mixed vegetables with bagoong.",
+    "image": "/images/pinakbet.jpg",
+    "ingredients": [
+      "1 eggplant, sliced",
+      "1 ampalaya (bitter melon), sliced",
+      "1 bundle string beans",
+      "1 squash, cubed",
+      "1 tomato, chopped",
+      "1 onion, chopped",
+      "2 tbsp bagoong (shrimp paste)"
+    ],
+    "instructions": [
+      "Sauté onion and tomato in oil.",
+      "Add vegetables and stir-fry for 2 minutes.",
+      "Add bagoong and simmer until vegetables are tender.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Puto",
+    "description": "Steamed rice cakes often served as merienda.",
+    "image": "/images/puto.jpg",
+    "ingredients": [
+      "2 cups rice flour",
+      "1 cup sugar",
+      "1 tbsp baking powder",
+      "1 1/2 cups water",
+      "1/2 cup grated cheese"
+    ],
+    "instructions": [
+      "Mix rice flour, sugar, baking powder, and water until smooth.",
+      "Pour batter into molds and steam for 20 minutes.",
+      "Top with grated cheese before serving."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Bibingka",
+    "description": "Christmas rice cake baked in banana leaves.",
+    "image": "/images/bibingka.jpg",
+    "ingredients": [
+      "2 cups rice flour",
+      "1 cup coconut milk",
+      "1 cup sugar",
+      "2 eggs",
+      "Banana leaves",
+      "Grated coconut and cheese for topping"
+    ],
+    "instructions": [
+      "Line pan with banana leaves.",
+      "Mix rice flour, coconut milk, sugar, and eggs into batter.",
+      "Pour batter into pan and bake until set.",
+      "Top with grated coconut and cheese."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Arroz Caldo",
+    "description": "Comforting Filipino rice porridge flavored with ginger and chicken.",
+    "image": "/images/arrozcaldo.jpg",
+    "ingredients": [
+      "1 cup glutinous rice",
+      "300 g chicken (wings or thighs)",
+      "6 cups chicken broth",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "2 tbsp ginger, sliced",
+      "2 tbsp fish sauce",
+      "Calamansi and boiled egg for garnish"
+    ],
+    "instructions": [
+      "Sauté garlic, onion, and ginger in oil.",
+      "Add chicken and cook until lightly browned.",
+      "Add rice and fish sauce, stir to coat.",
+      "Pour chicken broth and simmer until rice is soft.",
+      "Serve with boiled egg, calamansi, and fried garlic."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Chicken Tinola",
+    "description": "Light ginger-based chicken soup with papaya and chili leaves.",
+    "image": "/images/tinola.jpg",
+    "ingredients": [
+      "1 whole chicken, cut into pieces",
+      "6 cups water",
+      "2 tbsp ginger, sliced",
+      "1 onion, quartered",
+      "1 green papaya, sliced",
+      "1 bunch chili leaves (dahon ng sili)",
+      "Fish sauce to taste"
+    ],
+    "instructions": [
+      "Sauté onion and ginger in oil.",
+      "Add chicken and cook until lightly browned.",
+      "Pour in water and simmer until chicken is tender.",
+      "Add papaya slices and cook until soft.",
+      "Add chili leaves and season with fish sauce before serving."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Champorado",
+    "description": "Sweet chocolate rice porridge often served with dried fish (tuyo).",
+    "image": "/images/champorado.jpg",
+    "ingredients": [
+      "1 cup glutinous rice",
+      "4 cups water",
+      "1/2 cup cocoa powder (or tablea)",
+      "1/2 cup sugar",
+      "Evaporated milk for topping"
+    ],
+    "instructions": [
+      "Boil glutinous rice in water until half-cooked.",
+      "Add cocoa powder and sugar, stir until rice is tender.",
+      "Simmer until thick and creamy.",
+      "Serve hot with a swirl of evaporated milk.",
+      "Optional: eat with tuyo on the side."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Turon",
+    "description": "Crispy fried spring rolls filled with banana and jackfruit.",
+    "image": "/images/turon.jpg",
+    "ingredients": [
+      "6 saba bananas, sliced lengthwise",
+      "1/2 cup jackfruit strips",
+      "1/2 cup brown sugar",
+      "Spring roll wrappers",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Roll banana and jackfruit in sugar.",
+      "Wrap in spring roll wrapper and seal edges.",
+      "Fry in hot oil until golden and caramelized.",
+      "Drain excess oil and serve hot."
+    ]
+  },
+  {
+  "id": 21,
+  "name": "Longganisa",
+  "description": "Sweet, garlicky Filipino pork sausage often served with garlic rice and egg (Longsilog).",
+  "image": "/images/longganisa.jpg",
+  "ingredients": [
+    "1 kg ground pork (with some fat)",
+    "1 head garlic, minced",
+    "1/4 cup soy sauce",
+    "1/4 cup vinegar",
+    "1/4 cup brown sugar",
+    "1 tsp paprika",
+    "1 tsp ground pepper",
+    "1 tsp salt",
+    "Sausage casing or wax paper (optional)"
+  ],
+  "instructions": [
+    "In a large bowl, combine ground pork, garlic, soy sauce, vinegar, sugar, paprika, pepper, and salt. Mix well until sticky.",
+    "If using casings, stuff mixture into casings and tie into links. Otherwise, shape into small patties or logs and wrap in wax paper.",
+    "Refrigerate overnight to allow flavors to develop.",
+    "Pan-fry in a little water until it evaporates, then let sausage brown in its own rendered fat.",
+    "Serve with garlic fried rice and fried egg (Longsilog)."
+  ]
+  } 
+]

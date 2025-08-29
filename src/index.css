@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background: #fffaf6;
+  color: #111;
+}
+a {
+  color: inherit;
+}
+button {
+  border: none;
+  background: #ffedd5;
+}
